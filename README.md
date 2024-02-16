@@ -49,8 +49,8 @@ Beskrivning: Uppdaterar information om en sång med angivet ID.
 ### DELETE /api/Song/{id}
 Beskrivning: Tar bort en sång med angivet ID.
 
-#### Exempel
-Lägg till låt
+### Exempel
+### Lägg till låt
 
 {
     "Title": "Min sång",
@@ -59,14 +59,14 @@ Lägg till låt
     "CategoryId": 2
 }
 
-Lägg till artist
+### Lägg till artist
 
 {
     "Name": "Aristens namn",
    
 }
 
-Lägg till kategori
+### Lägg till kategori
 
 {
     "Name": "Kategorins namn",
