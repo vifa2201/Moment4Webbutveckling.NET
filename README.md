@@ -60,12 +60,16 @@ Lägg till låt
 }
 
 Lägg till artist
+
 {
     "Name": "Aristens namn",
    
 }
+
 Lägg till kategori
+
 {
     "Name": "Kategorins namn",
    
 }
+
